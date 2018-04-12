@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">ListViewJSONApp</string>
-
+    <string name="menu_item1">Reset</string>
 </resources>

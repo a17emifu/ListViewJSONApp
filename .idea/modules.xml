@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ListViewJSONApp.iml" filepath="$PROJECT_DIR$/.idea/ListViewJSONApp.iml" />
-      <module fileurl="file://C:\Users\Emiko\AndroidStudioProjects\ListViewJSONApp\ListViewJSONApp.iml" filepath="C:\Users\Emiko\AndroidStudioProjects\ListViewJSONApp\ListViewJSONApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
