@@ -188,5 +188,5 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
-//Jag tog bort klassen som finns först och lägger in nya klasser (Connector/JSONDownloader) för att visa JSON lättare
+
 
